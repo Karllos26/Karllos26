@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C4E5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Tenho+18+anos!;Estou+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Na+FATEC+Indaiatuba.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=Tenho+18+anos!;Estou+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;Na+FATEC+Indaiatuba.)](https://git.io/typing-svg)
 
 ## 💻 Linguagens que estudo no momento:
 
