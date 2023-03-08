@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00C4E5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Bem+vindo+ao+meu+GITHUB!++%3A);Ol%C3%A1!+Me+chamo+Karllos+Eduardo.;Tenho+18+anos!;Estou+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Na+FATEC+Indaiatuba)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Bem+vindo+ao+meu+GITHUB!++%3A);Olá!+Me+chamo+Karllos+Eduardo.;Tenho+18+anos!;Estou+cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Na+FATEC+Indaiatuba)](https://git.io/typing-svg)
 ## 💻 Linguagens que estudo no momento:
 
 <div style="display: inline_block"><br>
@@ -16,7 +16,7 @@
 <div> 
   <a href="(https://www.instagram.com/kadu2605/)></a>
   <a href = "mailto:karlloseduardopereira@gmail.com//" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isac-narcizo-baroni-bazzani-3624b4212//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/karllos-eduardo-35570a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Karllos26&bg_color=0d1117&color=00fad0&line=#F500C2&point=#ed4534&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
