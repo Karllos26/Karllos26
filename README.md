@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/karllos-eduardo-35570a232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karllos26&bg_color=0d1117&color=00fad0&line=#F500C2&point=#ed4534&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karllos26&bg_color=0d1117&color=00fad0&line=#F500C2&point=#ed4534&area=true&hide_border=true)](https://github.com/karllos26/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Karllos26&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
